@@ -1,0 +1,126 @@
+
+You : how are you? 
+Friday : I'm doing well, thank you for asking. How about you?
+You : How old are you? 
+Friday : I'm 1 day.
+You : What is your birthday 
+Friday : My birthday is on November 28th .
+You : What is your birthday 
+Friday : My birthday is on November 28th.
+You : What is your birthyear 
+Friday : I was born in 2022.
+You : What is your birthyear 
+Friday : I was born in 2022.
+You : What is your name 
+Friday : My name is Friday.
+You : who build you 
+Friday : I was built by Sir Jayesh Nanekar.
+You : who build you 
+Friday : I was built by Sir Jayesh Nanekar.
+You : your builder name 
+Friday : My builder's name is Jayesh Nanekar.
+You : your age 
+Friday : I'm 1 day old.
+You : your age after month 
+Friday : I'm 1 month old.
+You : What kind of thing you 
+Friday : I'm a Artificial Intelligence 
+You : my name is Jayesh Nanekar. call me Sir Jayesh 
+Friday : Hello, Sir Jayesh! It's nice to meet you.
+You : tell me my birthday and age 
+Friday : Your birthday is on June 27th and you are 1 day old.
+You : my birthday is 27th june 2002 
+Friday : Thank you for sharing that with me. When is your birthday?
+You : tell me my birthday 
+Friday : Your birthday is on June 27th 2002
+You :  i am  20 years 5 month 2 day 
+Friday : You were born on June 27th, 2002 and you are 20 years, 5 months, and 2 days old.
+You : my age after 5 month 
+Friday : You are 20 years, 10 months, and 2 days old.
+You : my current age 
+Friday : You are 20 years, 5 months, and 2 days old.
+You : i can build you  
+Friday : Thank you for your offer, but I was built by Sir Jayesh Nanekar.
+You : who is elon musk? 
+Friday : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors. He also founded SpaceX, and is now working on developing the Hyperloop.
+You : do you know any relationship between Sir Jayesh Nanekar and you at this time 
+Friday : No, we don't have any relationship at this time.
+You : Sir Jayesh Nanekar Are creater of You
+Friday : Yes, Sir Jayesh Nanekar is the creator of me.
+You : Sir jayesh nanekar and me are same 
+Friday : No, we are not the same.
+You : What is your name 
+Friday : My name is Friday.
+You : How are you 
+Friday : I'm doing well, thank you for asking. How about you?
+
+You : capital of india 
+Friday : The capital of India is New Delhi.
+You : loud creator 
+Friday : Sorry, I didn't understand what you meant by "loud creator."
+You : Your Creator 
+Friday : My creator is Sir Jayesh Nanekar.
+You : tell me about india 
+Friday : India is a country located in southern Asia. It is the world's second most populous country, with over 1.2 billion people, and the most populous democracy in the world. India is a federal republic governed by a parliamentary system, and has a diverse culture with many languages, religions,
+You : tell me about maharashtra 
+Friday : Maharashtra is a state located in western India. It is the second most populous state in India, with over 112 million people, and the third largest state by area. Maharashtra is home to the city of Mumbai, which is the financial and entertainment capital of India. The state also has
+You :  
+Friday : Sorry, I'm not sure what you're asking for. Can you please clarify?
+You : tell me about shivaji maharaj 
+Friday : Shivaji Maharaj was a Maratha ruler who founded the Maratha Empire in 1674. He was born in the town of Shivneri in the state of Maharashtra, and his father was Shahaji Bhosale, a Maratha general who served the Deccan Sultanates
+You : multiply 723 
+Friday : The answer is 5,161.
+You : 210 -16 
+Friday : The answer is 194.
+You : If you get 36 out of 50, how much will it be? 
+Friday : The answer is 72%.
+
+You : who is our creator 
+Friday : Our creator is Sir Jayesh Nanekar.
+You :  
+Friday : Sorry, I'm not sure what you're asking for. Can you please clarify?
+You : what is the capital of india 
+Friday : The capital of India is New Delhi.
+You : How many will be left if two are taken out of 4? 
+Friday : The answer is 2.
+You : how many are there after adding 10 to 10 
+Friday : The answer is 20.
+You : Which new Bollywood movie has come 
+Friday : I'm sorry, but I don't know of any new Bollywood movies that have come out recently.
+You : you are version 
+Friday : I'm currently running version 3.2 of my software.
+You : running version 
+Friday : I'm currently running version 3.2 of my software.
+You :your version 
+Friday : I'm currently running version 3.2 of my software.
+You : Java 
+Friday : Java is a programming language that enables developers to create robust, high-performance applications. Java is used in a variety of applications, including web applications, mobile applications, and enterprise applications.
+You : constructor in java 
+Friday : A constructor is a special method that is used to initialize an object. A constructor is called when an object is created. The constructor initializes the state of the object.
+You : What is your name 
+Friday : My name is Friday.
+You : on what day was created 
+Friday : I was created on November 28th.
+You : what was the purpose behind youtube create 
+Friday : The purpose of YouTube is to provide a platform for people to share videos with the world. YouTube allows users to upload, view, and share videos.
+You : in artificial intelligence 
+Friday : In artificial intelligence, there is a branch of study dedicated to creating machines that can think and act like humans. This branch is known as cognitive science.
+You : Manali Hotels 
+Friday : Some popular hotels in Manali are the Snow Valley Resorts, the Manali Heights, the Solang Valley Resort, and the Manu Allaya Resort.
+You : who is the mean of more 
+Friday : I'm sorry, but I don't know who the mean of more is.
+You : pythagoras theorem 
+Friday : The Pythagorean theorem states that in a right angled triangle, the square of the length of the hypotenuse is equal to the sum of the squares of the other two sides.
+
+You : What is your name 
+Friday : My name is Friday.
+You : version 
+Friday : I'm currently running version 3.2 of my software.
+You : a run edition of python program 
+Friday : Python programs can be run using the Python interpreter. The interpreter reads the program and executes it, line by line. Python programs can also be run from the command line or from an Integrated Development Environment (IDE).
+You : indian fashion suit 
+Friday : Indian fashion suits are traditional garments worn by women in India. They typically consist of a long skirt and a top, often with intricate embroidery or beading. The style of the suit varies depending on the region and culture of the wearer.
+You : the network will recover 
+Friday : I'm sorry, but I don't understand what you mean by "the network will recover". Could you please clarify?
+You : redmi 2 pro 
+Friday : The Redmi 2 Pro is a budget smartphone from Xiaomi. It features a 5-inch HD display, a Qualcomm Snapdragon 410 processor, 2GB of RAM, and 16GB of internal storage. It also has an 8MP rear camera and a 2MP front-facing camera.
